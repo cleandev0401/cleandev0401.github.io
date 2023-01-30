@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3a777fe.css",
+    "main.js": "/static/js/main.30aa659d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/scraper.png": "/static/media/scraper.038fed5e7e6367f7b0d7.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/shop1.png": "/static/media/shop1.da03c75de857407322e7.png",
+    "static/media/mern_restaurant.png": "/static/media/mern_restaurant.d767d3a8554af8b31e0b.png",
+    "static/media/alina.pdf": "/static/media/alina.7281301352cce372e625.pdf",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/nft-swap-sdk-banner.jpg": "/static/media/nft-swap-sdk-banner.d5a53779430aa169490a.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.e3a777fe.css.map": "/static/css/main.e3a777fe.css.map",
+    "main.30aa659d.js.map": "/static/js/main.30aa659d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a777fe.css",
+    "static/js/main.30aa659d.js"
+  ]
+}
